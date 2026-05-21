@@ -13,4 +13,11 @@
     "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/28m.jpg",
     "isPremium": false
   }
+  ,    {
+    "id": 3,
+    "name": "Naruto kiubi mode",
+    "category": "Solo levling",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/naruto.jpg",
+    "isPremium": true
+  }
 ]
