@@ -131,5 +131,46 @@
     "category": "Tom and Jerry",
     "imageUrl": "https://www.coloringpages101.com/coloring-pages/Cartoon-Characters/Tom-and-Jerry/Tom-Hitting-Jerry-With-A-Hammer-thumb.webp",
     "isPremium": false
+  }, {
+    "id": 20,
+    "name": "Gorela",
+    "category": "Animal",
+    "imageUrl": "https://img.freepik.com/premium-vector/gorilla-monkey-standing-sketch-abstract-hand-drawn-engraving-style-vector-illustration_666729-932.jpg?semt=ais_hybrid&w=740&q=80",
+    "isPremium": true
+  },
+  {
+    "id": 21,
+    "name": "GORELA",
+    "category": "Animal",
+    "imageUrl": "https://img.freepik.com/premium-vector/detailed-black-white-gorilla-sketch-white-background-art-education_1322206-79429.jpg?semt=ais_hybrid&w=740&q=80",
+    "isPremium": true
+  },
+  {
+    "id": 22,
+    "name": "Cougar's Face",
+    "category": "Animal",
+    "imageUrl": "https://sketchok.com/images/articles/07-animals/04-wild-animals/63/14m.jpg",
+    "isPremium": true
+  },
+  {
+    "id": 23,
+    "name": "Rabbit",
+    "category": "Animal",
+    "imageUrl": "https://png.pngtree.com/png-vector/20200305/ourmid/pngtree-cute-fluffy-rabbit-simple-line-art-png-image_2157529.jpg",
+    "isPremium": true
+  },
+  {
+    "id": 24,
+    "name": "Naruto",
+    "category": "Naruto",
+    "imageUrl": "https://sketchok.com/images/articles/06-anime/023-naruto/45/24.jpg",
+    "isPremium": true
+  },
+  {
+    "id": 25,
+    "name": "Naruto and sasuke",
+    "category": "Naruto",
+    "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/89446b54159065.59501f0713508.png",
+    "isPremium": false
   }
 ]
