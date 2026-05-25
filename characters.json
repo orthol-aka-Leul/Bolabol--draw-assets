@@ -20,4 +20,11 @@
     "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/naruto.jpg",
     "isPremium": true
   }
+  ,  {
+    "id": 4,
+    "name": "Naruto kiubi mode",
+    "category": "Naruto",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/tom.jpg",
+    "isPremium": true
+  }
 ]
