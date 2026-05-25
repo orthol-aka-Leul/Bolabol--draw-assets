@@ -227,5 +227,40 @@
     "category": "Solo levling",
     "imageUrl": "https://animecoloringpages.com/wp-content/uploads/2024/01/Young-Sung-Jin-woo.jpg",
     "isPremium": false
+  },
+  {
+    "id": 34,
+    "name": "Ben",
+    "category": "Ben 10",
+    "imageUrl": "https://sketchok.com/images/articles/01-cartoons/063-ben-ten/68/21m.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 35,
+    "name": "Echo Echo",
+    "category": "Ben 10",
+    "imageUrl": "https://clipart-library.com/coloring/8cz8Beqcp.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 36,
+    "name": "4 arm",
+    "category": "Ben 10",
+    "imageUrl": "https://i.pinimg.com/736x/c4/4b/9d/c44b9d9f24041c742c7b89182b717c37.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 37,
+    "name": "Vegages",
+    "category": "Ben 10",
+    "imageUrl": "https://i.pinimg.com/736x/01/b7/49/01b74983ab1fbd1a5bfa1c6fdce1dc7b.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 38,
+    "name": "Ben 10 Tranformation",
+    "category": "Ben 10",
+    "imageUrl": "https://coloringlib.com/wp-content/uploads/2023/02/aliens-in-ben-10-coloring.jpg",
+    "isPremium": false
   }
 ]
