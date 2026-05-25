@@ -9,13 +9,13 @@
   {
     "id": 2,
     "name": "Igris",
-    "category": "Solo levling",
+    "category": "Solo Leveling",
     "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/28m.jpg",
     "isPremium": false
   },
   {
     "id": 3,
-    "name": "Naruto kiubi mode",
+    "name": "Naruto Kurama Mode",
     "category": "Naruto",
     "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/naruto.jpg",
     "isPremium": true
@@ -131,16 +131,17 @@
     "category": "Tom and Jerry",
     "imageUrl": "https://www.coloringpages101.com/coloring-pages/Cartoon-Characters/Tom-and-Jerry/Tom-Hitting-Jerry-With-A-Hammer-thumb.webp",
     "isPremium": false
-  }, {
+  },
+  {
     "id": 20,
-    "name": "Gorela",
+    "name": "Gorilla",
     "category": "Animal",
     "imageUrl": "https://img.freepik.com/premium-vector/gorilla-monkey-standing-sketch-abstract-hand-drawn-engraving-style-vector-illustration_666729-932.jpg?semt=ais_hybrid&w=740&q=80",
     "isPremium": true
   },
   {
     "id": 21,
-    "name": "GORELA",
+    "name": "Gorilla",
     "category": "Animal",
     "imageUrl": "https://img.freepik.com/premium-vector/detailed-black-white-gorilla-sketch-white-background-art-education_1322206-79429.jpg?semt=ais_hybrid&w=740&q=80",
     "isPremium": true
@@ -168,69 +169,70 @@
   },
   {
     "id": 25,
-    "name": "Naruto and sasuke",
+    "name": "Naruto and Sasuke",
     "category": "Naruto",
     "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/89446b54159065.59501f0713508.png",
     "isPremium": false
-  }, {
+  },
+  {
     "id": 26,
-    "name": "Sung",
-    "category": "Solo levling",
+    "name": "Sung Jinwoo",
+    "category": "Solo Leveling",
     "imageUrl": "https://sketchok.com/images/articles/06-anime/068-solo-leveling/11/18.jpg",
     "isPremium": true
   },
   {
     "id": 27,
-    "name": "Sung jinwoo",
-    "category": "Solo levling",
+    "name": "Sung Jinwoo",
+    "category": "Solo Leveling",
     "imageUrl": "https://sketchok.com/images/articles/06-anime/068-solo-leveling/06/27.jpg",
     "isPremium": false
   },
   {
     "id": 28,
-    "name": "Sung jinwoo",
-    "category": "Solo levling",
+    "name": "Sung Jinwoo",
+    "category": "Solo Leveling",
     "imageUrl": "https://cdnb.artstation.com/p/assets/images/images/071/628/651/large/christy-asset.jpg?1705585041",
     "isPremium": false
   },
   {
     "id": 29,
-    "name": "Sung jinwoo",
-    "category": "Solo levling",
+    "name": "Sung Jinwoo",
+    "category": "Solo Leveling",
     "imageUrl": "https://preview.redd.it/my-sketches-for-cha-hae-in-and-sung-jinwoo-i-hope-you-all-v0-8ay3z4wvq0pa1.jpg?width=640&crop=smart&auto=webp&s=bd21b26a57e4c91b0ac6ffb30b9fb37153127e32",
     "isPremium": false
   },
   {
     "id": 30,
-    "name": "Sung jinwoo",
-    "category": "Solo levling",
+    "name": "Sung Jinwoo",
+    "category": "Solo Leveling",
     "imageUrl": "https://animecoloringpages.com/wp-content/uploads/2024/01/Sung-Jin-woo-in-Solo-Leveling.jpg",
     "isPremium": false
   },
   {
     "id": 31,
-    "name": "Sung jinwoo",
-    "category": "Solo levling",
+    "name": "Sung Jinwoo",
+    "category": "Solo Leveling",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLRAkeD9CHtw12_7Y-NMyFKSmENshpmlqag&s",
     "isPremium": false
   },
   {
     "id": 32,
-    "name": "Sung jinwoo",
-    "category": "Solo levling",
+    "name": "Sung Jinwoo",
+    "category": "Solo Leveling",
     "imageUrl": "https://sketchok.com/images/articles/06-anime/068-solo-leveling/07/16m.jpg",
     "isPremium": false
   },
   {
     "id": 33,
-    "name": "Sung jinwoo",
-    "category": "Solo levling",
+    "name": "Sung Jinwoo",
+    "category": "Solo Leveling",
     "imageUrl": "https://animecoloringpages.com/wp-content/uploads/2024/01/Young-Sung-Jin-woo.jpg",
     "isPremium": false
   },
   {
     "id": 34,
-    "name": "Ben",
+    "name": "Ben Tennyson",
     "category": "Ben 10",
     "imageUrl": "https://sketchok.com/images/articles/01-cartoons/063-ben-ten/68/21m.jpg",
     "isPremium": false
@@ -244,41 +246,43 @@
   },
   {
     "id": 36,
-    "name": "4 arm",
+    "name": "Four Arms",
     "category": "Ben 10",
     "imageUrl": "https://i.pinimg.com/736x/c4/4b/9d/c44b9d9f24041c742c7b89182b717c37.jpg",
     "isPremium": false
   },
   {
     "id": 37,
-    "name": "Vegages",
+    "name": "Vilgax",
     "category": "Ben 10",
     "imageUrl": "https://i.pinimg.com/736x/01/b7/49/01b74983ab1fbd1a5bfa1c6fdce1dc7b.jpg",
     "isPremium": false
   },
   {
     "id": 38,
-    "name": "Ben 10 Tranformation",
+    "name": "Ben 10 Transformation",
     "category": "Ben 10",
     "imageUrl": "https://coloringlib.com/wp-content/uploads/2023/02/aliens-in-ben-10-coloring.jpg",
     "isPremium": false
-  } , {
+  },
+  {
     "id": 39,
     "name": "Lijoch",
-    "category": "Bolabo",
+    "category": "Bolabol",
     "imageUrl": "https://imgcdn.stablediffusionweb.com/2024/10/22/76c3b7df-f7b3-43a5-816a-6e4246c4f34b.jpg",
     "isPremium": false
   },
   {
     "id": 40,
     "name": "Mama",
-    "category": "Bolabo",
+    "category": "Bolabol",
     "imageUrl": "https://www.bestcoloringpagesforkids.com/wp-content/uploads/2024/05/People-of-Ethiopia-Coloring-Page.jpg",
     "isPremium": false
-  },{
+  },
+  {
     "id": 41,
-    "name": "kido",
-    "category": "Bolabo",
+    "name": "Kido",
+    "category": "Bolabol",
     "imageUrl": "https://i.pinimg.com/originals/92/c9/ce/92c9ce77e9983f1944a4e846fa872f3e.jpg",
     "isPremium": false
   }
