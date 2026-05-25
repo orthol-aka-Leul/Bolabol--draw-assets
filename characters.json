@@ -23,14 +23,62 @@
   ,  {
     "id": 4,
     "name": "Naruto kiubi mode",
-    "category": "Naruto",
+    "category": "Tom and Jerry",
     "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/tom.jpg",
     "isPremium": true
   },{
     "id": 5,
     "name": "Naruto kiubi mode",
-    "category": "Naruto",
+    "category": "Tom and Jerry",
     "imageUrl": "https://i.pinimg.com/736x/d4/31/36/d431361ca41bc412eb226b2431a3489f.jpg",
+    "isPremium": true
+  },{
+    "id": 5,
+    "name": "Naruto kiubi mode",
+    "category": "Tom and Jerry",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ZbVeCrWX_-AS9BfZWHEXM3w8IlstHm0n3A&s",
+    "isPremium": true
+  },{
+    "id": 5,
+    "name": "Naruto kiubi mode",
+    "category": "Tom and Jerry",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHxOtNuJwm03H33ZAH0MxVLorBe4HL3VgFg&s",
+    "isPremium": true
+  },{
+    "id": 5,
+    "name": "Naruto kiubi mode",
+    "category": "Tom and Jerry",
+    "imageUrl": "https://clipart-library.com/coloring/nriLbogc8.gif",
+    "isPremium": true
+  },{
+    "id": 5,
+    "name": "Naruto kiubi mode",
+    "category": "Tom and Jerry",
+    "imageUrl": "https://i.pinimg.com/236x/e4/ed/99/e4ed99168c75472475e651427c9a31ac.jpg",
+    "isPremium": true
+  },{
+    "id": 5,
+    "name": "Naruto kiubi mode",
+    "category": "Tom and Jerry",
+    "imageUrl": "https://i.pinimg.com/736x/d4/31/36/d431361ca41bc412eb226b2431a3489f.jpg",
+    "isPremium": true
+  },{
+    "id": 5,
+    "name": "Naruto kiubi mode",
+    "category": "Tom and Jerry",
+    "imageUrl": "https://i.pinimg.com/736x/be/de/ae/bedeae7ceef626fc09b8e4a79bd27340.jpg",
+    "isPremium": true
+  },{
+    "id": 5,
+    "name": "Naruto kiubi mode",
+    "category": "Tom and Jerry",
+    "imageUrl": "https://i.pinimg.com/736x/d8/c6/c6/d8c6c673778aebb744734624b8154556.jpg",
+    "isPremium": true
+  },{
+    "id": 5,
+    "name": "Naruto kiubi mode",
+    "category": "Tom and Jerry",
+    "imageUrl": "https://wonder-day.com/wp-content/uploads/2021/04/wonder-day-tom-and-jerry-102-724x1024.jpg",
     "isPremium": true
   }
 ]
