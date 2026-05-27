@@ -341,5 +341,33 @@
     "category": "Bolabo",
     "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/08.jpg",
     "isPremium": false
+  },
+  {
+    "id": 50,
+    "name": "Naruto",
+    "category": "Naruto",
+    "imageUrl": "https://kleur-v-kind.com/wp-content/uploads/2025/10/madara-uchiha-met-susanoo-kleurplaat.png",
+    "isPremium": true
+  },
+  {
+    "id": 51,
+    "name": "Naruto and Sasuke",
+    "category": "Naruto",
+    "imageUrl": "https://coloringpath.com/wp-content/uploads/2025/01/SSP-1-by-madara-coloring-page.svg",
+    "isPremium": false
+  },
+  {
+    "id": 52,
+    "name": "Naruto",
+    "category": "Naruto",
+    "imageUrl": "https://i.pinimg.com/736x/ca/71/78/ca7178fcebb2000dc538fa9bb4b4e280.jpg",
+    "isPremium": true
+  },
+  {
+    "id": 53,
+    "name": "Naruto and Sasuke",
+    "category": "Naruto",
+    "imageUrl": "https://i.pinimg.com/736x/32/13/ec/3213ec458498136869ca44adae9e5a13.jpg",
+    "isPremium": false
   }
 ]
