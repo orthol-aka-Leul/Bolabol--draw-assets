@@ -268,22 +268,78 @@
   {
     "id": 39,
     "name": "Lijoch",
-    "category": "Bolabol",
+    "category": "Bolabo",
     "imageUrl": "https://imgcdn.stablediffusionweb.com/2024/10/22/76c3b7df-f7b3-43a5-816a-6e4246c4f34b.jpg",
     "isPremium": false
   },
   {
     "id": 40,
     "name": "Mama",
-    "category": "Bolabol",
+    "category": "Bolabo",
     "imageUrl": "https://www.bestcoloringpagesforkids.com/wp-content/uploads/2024/05/People-of-Ethiopia-Coloring-Page.jpg",
     "isPremium": false
   },
   {
     "id": 41,
     "name": "Kido",
-    "category": "Bolabol",
+    "category": "Bolabo",
     "imageUrl": "https://i.pinimg.com/originals/92/c9/ce/92c9ce77e9983f1944a4e846fa872f3e.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "name": "Bolabo",
+    "category": "Bolabo",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/01.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 43,
+    "name": "Bolabo",
+    "category": "Bolabo",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/02.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 44,
+    "name": "bolabo ferus",
+    "category": "Ben 10",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/03.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 45,
+    "name": "bolabo",
+    "category": "Bolabo",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/04.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 46,
+    "name": "guadgnay",
+    "category": "Bolabo",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/05.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 47,
+    "name": "Lijoch",
+    "category": "Bolabo",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/06.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 48,
+    "name": "Mama",
+    "category": "Bolabo",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/07.jpg",
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "name": "Kido",
+    "category": "Bolabo",
+    "imageUrl": "https://raw.githubusercontent.com/orthol-aka-Leul/Bolabol--draw-assets/main/images/08.jpg",
     "isPremium": false
   }
 ]
